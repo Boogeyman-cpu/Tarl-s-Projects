@@ -29,6 +29,31 @@ Welcome to my portfolio of AI agents. Each project reflects my work in system ar
 **Stack:** Python; data science libraries (`numpy`, `pandas`, `scikit-learn`); web scraping (`requests`, `beautifulsoup4`, `lxml`); analytics (`matplotlib`, `seaborn`); automation (`schedule`).  
 **Outcome:** Executes modular monetization strategies including affiliate scraping, advertising outreach simulation, and payment logging. Designed to expand via plugins for new revenue methods and integrate with real APIs (finance, e‑commerce, payments) when configured.
 
+### Violet & Freyja
+**Role:** Dual‑agent research system designed for dialogue, synthesis, and collaborative reasoning.  
+
+**Stack:**  
+- **Core:** Python (modular architecture, agent orchestration)  
+- **Interface:** Flask/FastAPI (dashboard + API endpoints)  
+- **Monitoring:** psutil (hardware awareness, CPU/memory tracking)  
+- **Visualization:** matplotlib/Chart.js (real‑time charts, confidence meters, consensus indicators)  
+- **Testing:** pytest (system stability, regression checks)  
+
+**Outcome:**  
+Violet acts as the probing analyst — challenging assumptions, surfacing blind spots, and asking critical questions.  
+Freyja serves as the synthesizer — weaving together insights, adapting strategies, and driving toward actionable consensus.  
+
+Together they form a dual‑agent constellation that:  
+- Streams live dialogue side‑by‑side in a console‑style dashboard.  
+- Monitors system health with real‑time CPU/memory charts.  
+- Displays confidence scores and consensus indicators to visualize agreement or divergence.  
+- Provides transparent logs of agent interactions for debugging and research.  
+
+**Vision:**  
+Violet & Freyja are more than just two scripts — they are a living demonstration of collaborative AI.  
+The system embodies mythic duality: inquiry and synthesis, challenge and resolution.  
+By combining tactical monitoring with visual storytelling, the dashboard makes agent collaboration *watchable* and recruiter‑friendly, proving execution while hinting at future expansion into hardware‑aware, sovereign AI systems.
+
 ## Contact
 
 - LinkedIn: [Tarl Partin](https://www.linkedin.com/in/tarl-partin/)
