@@ -25,10 +25,9 @@ Welcome to my portfolio of AI agents. Each project reflects my work in system ar
 **Outcome:** Nova runs as a single-file AI with a proactive "living loop," memory persistence, and event-driven automation. She observes, plans, and executes tasks continuously, supports rules and schedules, and exposes a local API for skill invocation. Nova demonstrates resilience, autonomy policy gating, and creative iteration — making her your most polished, production-ready agent.
 
 ### Greenhood (renaming soon)
-**Role:** Monetization strategist agent, focused on financial independence.  
-**Stack:** Python, data science libraries (`numpy`, `pandas`, `scikit-learn`), web scraping (`requests`, `beautifulsoup4`, `lxml`), analytics (`matplotlib`, `seaborn`), automation (`schedule`).  
-**Outcome:** Runs modular monetization strategies including affiliate scraping, advertising outreach simulation, and payment logging. Designed to expand via plugins for new revenue methods and integrate with real APIs (finance, e‑commerce, payments) when configured.
----
+**Role:** Monetization strategist agent focused on financial independence.  
+**Stack:** Python; data science libraries (`numpy`, `pandas`, `scikit-learn`); web scraping (`requests`, `beautifulsoup4`, `lxml`); analytics (`matplotlib`, `seaborn`); automation (`schedule`).  
+**Outcome:** Executes modular monetization strategies including affiliate scraping, advertising outreach simulation, and payment logging. Designed to expand via plugins for new revenue methods and integrate with real APIs (finance, e‑commerce, payments) when configured.
 
 ## Contact
 
