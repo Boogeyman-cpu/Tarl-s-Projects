@@ -29,7 +29,7 @@ Welcome to my portfolio of AI agents. Each project reflects my work in system ar
 **Stack:** Python; data science libraries (`numpy`, `pandas`, `scikit-learn`); web scraping (`requests`, `beautifulsoup4`, `lxml`); analytics (`matplotlib`, `seaborn`); automation (`schedule`).  
 **Outcome:** Executes modular monetization strategies including affiliate scraping, advertising outreach simulation, and payment logging. Designed to expand via plugins for new revenue methods and integrate with real APIs (finance, e‑commerce, payments) when configured.
 
-### Violet & Freyja
+### Violet & Freyja - (inproggress)
 **Role:** Dual‑agent research system designed for dialogue, synthesis, and collaborative reasoning.  
 
 **Stack:**  
